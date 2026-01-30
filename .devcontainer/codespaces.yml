@@ -5,6 +5,7 @@ services:
     environment:
       RAM_SIZE: "half"
       DISK_SIZE: "max"
+      VERSION: "8e"
       CPU_CORES: "max"
     devices:
       - /dev/kvm
