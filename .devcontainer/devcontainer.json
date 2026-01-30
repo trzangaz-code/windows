@@ -1,8 +1,8 @@
 {
-  "name": "Windows 11 Pro",
+  "name": "Windows 8 deleteduser",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "11"
+    "VERSION": "8e"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
